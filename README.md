@@ -70,7 +70,6 @@ This project was built by following the [SuperSimpleDev](https://www.youtube.com
 
 - Replace the rule-based library with a real AI API
 - Add a Node/Express backend to proxy API requests and keep keys off the client
-- Add custom responses and more conversation topics
 
 ## Author
 
